@@ -57,4 +57,4 @@ A user-friendly web app to input movie reviews and get instant sentiment predict
 
 ---
 ### Tags: 
-#NLP #SentimentAnalysis #MachineLearning #Streamlit #Python #IMDB #TextClassification
+`#NLP` `#SentimentAnalysis` `#MachineLearning` `#Streamlit` `#Python` `#IMDB` `#TextClassification`
